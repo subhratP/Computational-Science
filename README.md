@@ -1,11 +1,11 @@
 # Starting-out-with-git
-Some initial work in Computational Science
+Some initial work in Computational Science:
 FDM,
 FEM,
 LBM,
 Barnes Hut-Octree implementation,
 MNIST Keras implementation,
-Discrete Events Simulation,
+Discrete Events Simulation
 
 Credits:
 1. University of Geneva; Bastien Chopard, Jonas Latt, Orestis Malaspinas, Jean-Luc Falcone
