@@ -3,7 +3,7 @@ Some initial work in Computational Science
 FDM
 FEM
 LBM
-Barnes Hut- Octree implementation
+Barnes Hut-Octree implementation
 MNIST Keras implementation
 Discrete Events Simulation
 
